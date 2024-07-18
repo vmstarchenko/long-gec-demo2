@@ -1,0 +1,50 @@
+{
+    "bea": {
+        "PUNCT__edits_count": 495,
+        "PUNCT__edits_ml_not_corrected_count": 169,
+        "PUNCT__texts_count": 196,
+        "VERB:TENSE__edits_count": 485,
+        "VERB:TENSE__edits_ml_not_corrected_count": 226,
+        "VERB:TENSE__texts_count": 177,
+        "WO__edits_count": 89,
+        "WO__edits_ml_not_corrected_count": 47,
+        "WO__texts_count": 73,
+        "texts_count": 350
+    },
+    "conll": {
+        "PUNCT__edits_count": 3,
+        "PUNCT__edits_ml_not_corrected_count": 2,
+        "PUNCT__texts_count": 0,
+        "VERB:TENSE__edits_count": 10,
+        "VERB:TENSE__edits_ml_not_corrected_count": 5,
+        "VERB:TENSE__texts_count": 0,
+        "WO__edits_count": 4,
+        "WO__edits_ml_not_corrected_count": 3,
+        "WO__texts_count": 4,
+        "texts_count": 252
+    },
+    "fce": {
+        "PUNCT__edits_count": 181,
+        "PUNCT__edits_ml_not_corrected_count": 79,
+        "PUNCT__texts_count": 92,
+        "VERB:TENSE__edits_count": 248,
+        "VERB:TENSE__edits_ml_not_corrected_count": 130,
+        "VERB:TENSE__texts_count": 116,
+        "WO__edits_count": 77,
+        "WO__edits_ml_not_corrected_count": 47,
+        "WO__texts_count": 62,
+        "texts_count": 194
+    },
+    "realec": {
+        "PUNCT__edits_count": 735,
+        "PUNCT__edits_ml_not_corrected_count": 371,
+        "PUNCT__texts_count": 577,
+        "VERB:TENSE__edits_count": 3997,
+        "VERB:TENSE__edits_ml_not_corrected_count": 2648,
+        "VERB:TENSE__texts_count": 1723,
+        "WO__edits_count": 702,
+        "WO__edits_ml_not_corrected_count": 505,
+        "WO__texts_count": 572,
+        "texts_count": 4076
+    }
+}
