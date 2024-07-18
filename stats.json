@@ -1,5 +1,8 @@
 {
     "bea": {
+        "PRON__edits_count": 187,
+        "PRON__edits_ml_not_corrected_count": 83,
+        "PRON__texts_count": 126,
         "PUNCT__edits_count": 495,
         "PUNCT__edits_ml_not_corrected_count": 169,
         "PUNCT__texts_count": 196,
@@ -12,6 +15,9 @@
         "texts_count": 350
     },
     "conll": {
+        "PRON__edits_count": 11,
+        "PRON__edits_ml_not_corrected_count": 11,
+        "PRON__texts_count": 9,
         "PUNCT__edits_count": 3,
         "PUNCT__edits_ml_not_corrected_count": 2,
         "PUNCT__texts_count": 0,
@@ -24,6 +30,9 @@
         "texts_count": 252
     },
     "fce": {
+        "PRON__edits_count": 179,
+        "PRON__edits_ml_not_corrected_count": 79,
+        "PRON__texts_count": 106,
         "PUNCT__edits_count": 181,
         "PUNCT__edits_ml_not_corrected_count": 79,
         "PUNCT__texts_count": 92,
@@ -36,6 +45,9 @@
         "texts_count": 194
     },
     "realec": {
+        "PRON__edits_count": 1104,
+        "PRON__edits_ml_not_corrected_count": 627,
+        "PRON__texts_count": 776,
         "PUNCT__edits_count": 735,
         "PUNCT__edits_ml_not_corrected_count": 371,
         "PUNCT__texts_count": 577,
