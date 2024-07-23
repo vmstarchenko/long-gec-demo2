@@ -1,5 +1,8 @@
 {
     "bea": {
+        "DET__edits_count": 777,
+        "DET__edits_ml_not_corrected_count": 277,
+        "DET__texts_count": 259,
         "PRON__edits_count": 187,
         "PRON__edits_ml_not_corrected_count": 83,
         "PRON__texts_count": 126,
@@ -15,21 +18,25 @@
         "texts_count": 350
     },
     "conll": {
+        "DET__edits_count": 79,
+        "DET__edits_ml_not_corrected_count": 57,
+        "DET__texts_count": 62,
         "PRON__edits_count": 11,
         "PRON__edits_ml_not_corrected_count": 11,
         "PRON__texts_count": 9,
         "PUNCT__edits_count": 3,
         "PUNCT__edits_ml_not_corrected_count": 2,
-        "PUNCT__texts_count": 0,
         "VERB:TENSE__edits_count": 10,
         "VERB:TENSE__edits_ml_not_corrected_count": 5,
-        "VERB:TENSE__texts_count": 0,
         "WO__edits_count": 4,
         "WO__edits_ml_not_corrected_count": 3,
         "WO__texts_count": 4,
         "texts_count": 252
     },
     "fce": {
+        "DET__edits_count": 580,
+        "DET__edits_ml_not_corrected_count": 169,
+        "DET__texts_count": 158,
         "PRON__edits_count": 179,
         "PRON__edits_ml_not_corrected_count": 79,
         "PRON__texts_count": 106,
@@ -45,6 +52,9 @@
         "texts_count": 194
     },
     "realec": {
+        "DET__edits_count": 9570,
+        "DET__edits_ml_not_corrected_count": 3900,
+        "DET__texts_count": 2629,
         "PRON__edits_count": 1104,
         "PRON__edits_ml_not_corrected_count": 627,
         "PRON__texts_count": 776,
@@ -57,6 +67,15 @@
         "WO__edits_count": 702,
         "WO__edits_ml_not_corrected_count": 505,
         "WO__texts_count": 572,
+        "texts_count": 4076
+    },
+    "realec-raw": {
+        "Inappropriate_register__edits_count": 867,
+        "Inappropriate_register__edits_ml_not_corrected_count": 867,
+        "Inappropriate_register__texts_count": 437,
+        "Ref_device__edits_count": 770,
+        "Ref_device__edits_ml_not_corrected_count": 770,
+        "Ref_device__texts_count": 547,
         "texts_count": 4076
     }
 }
