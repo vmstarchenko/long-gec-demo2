@@ -70,12 +70,12 @@
         "texts_count": 4076
     },
     "realec-raw": {
-        "Inappropriate_register__edits_count": 867,
-        "Inappropriate_register__edits_ml_not_corrected_count": 867,
-        "Inappropriate_register__texts_count": 437,
-        "Ref_device__edits_count": 770,
-        "Ref_device__edits_ml_not_corrected_count": 770,
-        "Ref_device__texts_count": 547,
+        "Inappropriate_register__edits_count": 871,
+        "Inappropriate_register__edits_ml_not_corrected_count": 871,
+        "Inappropriate_register__texts_count": 439,
+        "Ref_device__edits_count": 771,
+        "Ref_device__edits_ml_not_corrected_count": 771,
+        "Ref_device__texts_count": 545,
         "texts_count": 4076
     }
 }
